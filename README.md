@@ -20,3 +20,14 @@
 
 ### Find me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-ybrahim-ontiveros-cardenas-576b7bb3/)
+
+### My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://github.com/hugoybrahim/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hugoybrahim&show_icons=true&theme=react&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hugoybrahim&theme=react&hide_border=true" />
+  </a>
+</p>
+<br>
