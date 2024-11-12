@@ -20,3 +20,5 @@
 
 ### Find me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-ybrahim-ontiveros-cardenas-576b7bb3/)
+
+[![Hugo's Activity Graph](https://activity-graph.herokuapp.com/graph?username=hugoybrahim&custom_title=hugoybrahim's%20Contribution%20Graph&theme=react-dark&hide_border=true)](https://github.com/hugoybrahim/)
